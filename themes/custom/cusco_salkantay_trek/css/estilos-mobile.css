@@ -51,7 +51,7 @@ a.visually-hidden.focusable.skip-link {
     /* gap: 20px; espacio entre bloques */
     padding: 10px 20px;
     /*background-color: aquamarine;*/
-    background-color: blue;
+    background-color: rgb(255, 0, 221);
 }
 
 
