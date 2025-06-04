@@ -38,7 +38,8 @@ a.visually-hidden.focusable.skip-link {
 }
 
 #block-cusco-salkantay-trek-sitebranding img {
-    size: 25px;
+    width: 25px;
+    height: auto;
 }
 
 .region.region-footer{
