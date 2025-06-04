@@ -1,0 +1,64 @@
+Webhook recibido a las 2025-06-04 21:29:41
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:34:20
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:40:03
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:41:05
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:41:50
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:52:33
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 21:59:20
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 22:10:15
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Webhook recibido a las 2025-06-04 22:15:38
+Warning: Permanently added the ECDSA host key for IP address '140.82.114.3' to the list of known hosts.
+Webhook recibido a las 2025-06-04 22:16:31
+From github.com:RosmelCT/cuscosalkantaytrek
+ * branch              main       -> FETCH_HEAD
+   7e3118b5..daa2fa1d  main       -> origin/main
+Updating 7e3118b5..daa2fa1d
+Fast-forward
+ themes/custom/cusco_salkantay_trek/css/estilos-mobile.css | 8 +++++---
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+Webhook recibido a las 2025-06-04 22:21:03
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
