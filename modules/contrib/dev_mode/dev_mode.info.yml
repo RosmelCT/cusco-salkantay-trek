@@ -1,0 +1,10 @@
+name: 'Development Mode'
+type: module
+description: 'Enable this module to activate development mode on your Drupal site.'
+core_version_requirement: ^8 || ^9 || ^10 || ^11
+package: 'Development'
+
+# Information added by Drupal.org packaging script on 2025-04-24
+version: '8.x-2.7'
+project: 'dev_mode'
+datestamp: 1745492988

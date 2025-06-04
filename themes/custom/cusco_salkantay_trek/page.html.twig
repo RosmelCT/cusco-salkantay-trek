@@ -1,0 +1,45 @@
+<div id="wrapper">
+    <header id="header">
+        <div class="container">
+            {{ page.header }}
+        </div>
+    </header>
+    {% if page.menu %}
+        <nav id="menu">
+            <div class="container">
+                {{ page.menu }}
+            </div>
+        </nav>
+    {% endif %}
+    {% if page.slider %}
+        <aside id="slider">
+            <div class="slider">
+                {{ page.slider }}
+             </div>
+        </aside>
+    {% endif %}
+    <main id="main">
+    <div id="contenedor">
+        {% if page.sidebar_left %}
+            <aside id="sidebar_left">
+                {{ page.sidebar_left}}
+            </aside>
+        {% endif %}
+        <div id="contenido">
+            {{ page.content }}
+        </div>
+        {% if page.sidebar_right %}
+            <aside id="sidebar_right">
+                {{ page.sidebar_right}}
+            </aside>
+        {% endif %}
+    </div>
+    </main>
+    {% if page.footer %}
+        <footer id="footer">
+            <div class="container">
+                {{ page.footer }}
+            </div>
+        </footer>
+    {% endif %}
+</div>
