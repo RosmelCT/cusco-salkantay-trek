@@ -41,9 +41,6 @@ a.visually-hidden.focusable.skip-link {
     background-color: #56A813; 
     align-content: center;
 }
-.tbm-collapse{
-    align-content: center;
-}
 .region.region-menu{
     display: flex;
     align-content: center;
