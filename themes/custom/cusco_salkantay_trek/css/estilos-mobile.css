@@ -20,7 +20,7 @@ a.visually-hidden.focusable.skip-link {
     display: none;
 }
 
-.region.region-header{
+.region-header{
 
     display: flex;
     flex-wrap: wrap;
@@ -36,31 +36,4 @@ a.visually-hidden.focusable.skip-link {
     padding: 10px 20px;
     background-color: rgb(46, 33, 33);
 }
-
-#block-cusco-salkantay-trek-sitebranding img {
-    width: 120px;
-    height: auto;
-}
-
-.img{
-    width: 50%;
-    height: auto;
-}
-.region.region-footer{
-    display: flex;
-    flex-wrap: wrap;
-    /* display: grid;
-    grid-template-columns: repeat(3, 1fr); */
-    width: 100%;
-    max-width: 75%;
-    justify-content: space-between;
-    align-items: center;
-    align-content: center;
-    margin: 0 auto;
-    /* gap: 20px; espacio entre bloques */
-    padding: 10px 20px;
-    /*background-color: aquamarine;*/
-    background-color: rgb(145, 255, 0);
-}
-
 
