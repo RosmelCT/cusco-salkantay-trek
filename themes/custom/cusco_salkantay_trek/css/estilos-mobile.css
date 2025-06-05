@@ -31,3 +31,7 @@ a.visually-hidden.focusable.skip-link {
 /*=========================== ESTILOS CSS CONTENT==================*/
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS FOOTER==================*/
+.region.region-footer {
+    display: flex;
+    justify-items: center;
+}
