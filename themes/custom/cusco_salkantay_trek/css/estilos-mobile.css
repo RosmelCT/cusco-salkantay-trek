@@ -42,8 +42,8 @@ a.visually-hidden.focusable.skip-link {
     height: auto;
 }
 
-.field--name-field-tb-slider-home-bg-img .img{
-    width: 1920px;
+.img{
+    width: 50%;
     height: auto;
 }
 .region.region-footer{
