@@ -51,10 +51,13 @@ a.visually-hidden.focusable.skip-link {
     flex-wrap: wrap;
     width: 100%;
     max-width: 75%;
+    justify-content: space-between;
     justify-items: center;
+    align-content: center;
     padding: 10px 20px;
+    margin: 0 auto;
 }
-.region.region-footer #block-cusco-salkantay-trek-sitebranding img {
+#footer .block-cusco-salkantay-trek-sitebranding img {
     width: 200px;
     height: auto;
 }
