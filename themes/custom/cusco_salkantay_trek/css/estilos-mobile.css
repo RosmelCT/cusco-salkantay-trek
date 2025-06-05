@@ -42,7 +42,6 @@ a.visually-hidden.focusable.skip-link {
     align-content: center;
 }
 .region.region-menu{
-    display: flex;
     align-content: center;
 }
 /*============================================================================================================*/
