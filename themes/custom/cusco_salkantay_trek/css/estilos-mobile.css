@@ -24,6 +24,16 @@ a.visually-hidden.focusable.skip-link {
 /*=========================== ESTILOS CSS HEADER==================*/
 .region.region-header{
     display: flex; /*Elementos hijo se distribuyan en linea horizontal*/
+    flex-wrap: wrap;
+    /*height: 100px; /* Altura fija del header*/
+    width: 100%; /* Ocupa todo el ancho disponible */
+    max-width:85%; /* Máximo del ancho del contenedor header */
+    justify-content: space-between; /* Espacia los elementos entre sí */
+    /*align-items: flex-start; /* Centra verticalmente los elementos */
+    align-items: center; /* Centra los elementos verticalmente */
+    /*align-content: center; /* Centra varias filas si se generan */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    /*padding: 10px; /* Espacio interno del contenedor */
 }
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS MENU==================*/
@@ -42,10 +52,13 @@ a.visually-hidden.focusable.skip-link {
     flex-wrap: wrap;
     width: 100%;
     max-width: 75%;
+    justify-content: space-between;
     justify-items: center;
+    align-content: center;
     padding: 10px 20px;
+    margin: 0 auto;
 }
-.region.region-footer #block-cusco-salkantay-trek-sitebranding img {
+#footer .block-cusco-salkantay-trek-sitebranding img {
     width: 200px;
     height: auto;
 }
