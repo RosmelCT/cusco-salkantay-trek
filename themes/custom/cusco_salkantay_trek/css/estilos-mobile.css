@@ -28,7 +28,8 @@ a.visually-hidden.focusable.skip-link {
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS MENU==================*/
 #block-cusco-salkantay-trek-mainnavigation .tbm-collapse{
-    background-color: #56A813;
+    background-color: #56A813; 
+    justify-content: center;
 }
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS SLIDER==================*/
