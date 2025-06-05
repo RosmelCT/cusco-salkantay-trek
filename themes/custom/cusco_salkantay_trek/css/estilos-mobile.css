@@ -37,7 +37,7 @@ a.visually-hidden.focusable.skip-link {
 }
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS MENU==================*/
-#block-cusco-salkantay-trek-mainnavigation{
+#block-cusco-salkantay-trek-mainnavigation .tbm-collapse{
     background-color: green;
 }
 /*============================================================================================================*/
@@ -53,4 +53,8 @@ a.visually-hidden.focusable.skip-link {
     max-width: 75%;
     justify-items: center;
     padding: 10px 20px;
+}
+.region.region-footer #block-cusco-salkantay-trek-sitebranding img {
+    width: 200px;
+    height: auto;
 }
