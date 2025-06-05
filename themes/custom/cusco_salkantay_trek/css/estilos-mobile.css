@@ -24,6 +24,8 @@ a.visually-hidden.focusable.skip-link {
 /*=========================== ESTILOS CSS HEADER==================*/
 .region.region-header{
     display: flex; /*Elementos hijo se distribuyan en linea horizontal*/
+    flex-wrap: wrap;
+    height: 100px; /* Altura fija del header*/
 }
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS MENU==================*/
