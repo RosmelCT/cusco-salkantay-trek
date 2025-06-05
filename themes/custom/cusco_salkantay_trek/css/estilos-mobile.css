@@ -25,7 +25,7 @@ a.visually-hidden.focusable.skip-link {
 .region.region-header{
     display: flex; /*Elementos hijo se distribuyan en linea horizontal*/
     flex-wrap: wrap;
-    height: 100px; /* Altura fija del header*/
+    /*height: 100px; /* Altura fija del header*/
     width: 100%; /* Ocupa todo el ancho disponible */
     max-width:85%; /* Máximo del ancho del contenedor header */
     justify-content: space-between; /* Espacia los elementos entre sí */
