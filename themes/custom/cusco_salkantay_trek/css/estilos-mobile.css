@@ -26,6 +26,14 @@ a.visually-hidden.focusable.skip-link {
     display: flex; /*Elementos hijo se distribuyan en linea horizontal*/
     flex-wrap: wrap;
     height: 100px; /* Altura fija del header*/
+    width: 100%; /* Ocupa todo el ancho disponible */
+    max-width:85%; /* Máximo del ancho del contenedor header */
+    justify-content: space-between; /* Espacia los elementos entre sí */
+    /*align-items: flex-start; /* Centra verticalmente los elementos */
+    align-items: center; /* Centra los elementos verticalmente */
+    /*align-content: center; /* Centra varias filas si se generan */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    /*padding: 10px; /* Espacio interno del contenedor */
 }
 /*============================================================================================================*/
 /*=========================== ESTILOS CSS MENU==================*/
